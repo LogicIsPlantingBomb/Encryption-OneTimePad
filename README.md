@@ -14,7 +14,7 @@ This repository contains simple C programs to encrypt and decrypt files using th
 - The decryption program reads the encrypted file and the corresponding key file.
 - Each encrypted character is XORed with its respective key to retrieve the original character.
 - The decrypted content is saved in an output file.
-
+.
 ## Compilation & Usage
 
 ### Compile the programs:
