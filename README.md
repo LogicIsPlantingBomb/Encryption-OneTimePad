@@ -1,4 +1,4 @@
-# One-Time Pad (OTP) Encryption & Decryption Tool.
+# One-Time Pad (OTP) Encryption & Decryption Tool
 
 This repository contains simple C programs to encrypt and decrypt files using the One-Time Pad (OTP) encryption technique. The encryption process uses a random key for each character, making it highly secure when used correctly.
 
